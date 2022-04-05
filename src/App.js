@@ -57,7 +57,7 @@ function App() {
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
                            <h6 class="sub-title">About</h6>
-                           <h2 class="title">What is KAA Coin</h2>
+                           <h2 class="title">O que é KAA Coin</h2>
                         </div>
                         <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">O KAA COIN Security Token is a smart contract trading in 
                            <br class="d-none d-xl-block" />Blockchain network exchanges.
