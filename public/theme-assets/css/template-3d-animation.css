@@ -393,10 +393,10 @@ svg#loader g:last-child circle {
        -o-transition : 0.5s;
      -moz-transition : 0.5s;
           transition : 0.5s;
-  background-image : -webkit-linear-gradient(50deg, #BF68E6 20%, #9E48CD 51%, #BF68E6 90%);
-  background-image :    -moz-linear-gradient(50deg, #BF68E6 20%, #9E48CD 51%, #BF68E6 90%);
-  background-image :      -o-linear-gradient(50deg, #BF68E6 20%, #9E48CD 51%, #BF68E6 90%);
-  background-image :         linear-gradient(40deg, #BF68E6 20%, #9E48CD 51%, #BF68E6 90%);
+  background-image : -webkit-linear-gradient(50deg, #6e28b8 20%, #4c009c 51%, #6e28b8 90%);
+  background-image :    -moz-linear-gradient(50deg, #6e28b8 20%, #4c009c 51%, #6e28b8 90%);
+  background-image :      -o-linear-gradient(50deg, #6e28b8 20%, #4c009c 51%, #6e28b8 90%);
+  background-image :         linear-gradient(40deg, #6e28b8 20%, #4c009c 51%, #6e28b8 90%);
   background-position : left center;
   -webkit-background-size : 200% auto;
           background-size : 200% auto;
@@ -409,14 +409,14 @@ svg#loader g:last-child circle {
   color : #FFFFFF;
 }
 .btn-gradient-purple:not(:disabled):not(.disabled):active {
-  background-image : -webkit-linear-gradient(50deg, #BF68E6 0%, #9E48CD 51%, #BF68E6 90%);
-  background-image :    -moz-linear-gradient(50deg, #BF68E6 0%, #9E48CD 51%, #BF68E6 90%);
-  background-image :      -o-linear-gradient(50deg, #BF68E6 0%, #9E48CD 51%, #BF68E6 90%);
-  background-image :         linear-gradient(40deg, #BF68E6 0%, #9E48CD 51%, #BF68E6 90%);
+  background-image : -webkit-linear-gradient(50deg, #6e28b8 0%, #4c009c 51%, #6e28b8 90%);
+  background-image :    -moz-linear-gradient(50deg, #6e28b8 0%, #4c009c 51%, #6e28b8 90%);
+  background-image :      -o-linear-gradient(50deg, #6e28b8 0%, #4c009c 51%, #6e28b8 90%);
+  background-image :         linear-gradient(40deg, #6e28b8 0%, #4c009c 51%, #6e28b8 90%);
 }
 .btn-gradient-purple.btn-glow {
-  -webkit-box-shadow : 0 0 12px 0 #9E48CD;
-          box-shadow : 0 0 12px 0 #9E48CD;
+  -webkit-box-shadow : 0 0 12px 0 #4c009c;
+          box-shadow : 0 0 12px 0 #4c009c;
 }
 
 .btn-light {
@@ -3116,13 +3116,13 @@ header .navbar.navbar-shadow {
 .team .team-img {
   padding : 7px;
   border-radius : 50%;
-  cursor : pointer;
-  background : -webkit-linear-gradient(45deg, #29BEFF, #1C76FE);
-  background :    -moz-linear-gradient(45deg, #29BEFF, #1C76FE);
-  background :      -o-linear-gradient(45deg, #29BEFF, #1C76FE);
-  background :         linear-gradient(45deg, #29BEFF, #1C76FE);
-  -webkit-box-shadow : 0 0 12px 0 #29BEFF;
-          box-shadow : 0 0 12px 0 #29BEFF;
+  cursor : pointer;  
+  background : -webkit-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :    -moz-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :      -o-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :         linear-gradient(45deg, #6e28b8, #4c009c);
+  -webkit-box-shadow : 0 0 12px 0 #6e28b8;
+          box-shadow : 0 0 12px 0 #6e28b8;
   position : relative;
   z-index : 1;
 }
@@ -3163,8 +3163,8 @@ header .navbar.navbar-shadow {
       -ms-transform : rotate(45deg);
        -o-transform : rotate(45deg);
           transform : rotate(45deg);
-  border-right : 3px solid #29BEFF;
-  border-image-source : linear-gradient(to top, #29BEFF, #1C76FE);
+  border-right : 3px solid #6e28b8;
+  border-image-source : linear-gradient(to top, #6e28b8, #4c009c);
   border-image-slice : 0.5;
   -webkit-transition-property : -webkit-transform;
           transition-property : -webkit-transform;
@@ -4380,11 +4380,20 @@ body.inner-page {
 }
 
 header .navbar.navbar-fixed {
-  background : #006633;
+  background : #295416;
+  /* background : #574544; */
 }
 
 header .navbar .dropdown .dropdown-menu .dropdown-item {
   color : #7D7D7D;
+}
+
+.slide-banner01{
+  background-image: url('../images-banner/01.jpg');
+}
+
+.slide-banner02{
+  background-image: url('../images-banner/03.jpg');
 }
 
 #navigation #slide-line {

@@ -33,6 +33,36 @@ ul {
   list-style : none;
 }
 
+#slide-message {
+  background-color: #24A8F2;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  height: 200px;
+  width: 200px;
+  display: grid;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  grid-template-columns: minmax(0px, 1fr);
+  grid-template-rows: minmax(734px, max-content);
+  column-gap: 0px;
+  row-gap: 0px;
+  width: 91.39%;
+  margin-top: 120px;
+  margin-bottom: 0px;
+  margin-right: 1.508904619970186%;
+  margin-left: 0%;
+  justify-self: center;
+  align-self: start;
+  grid-column-start: 2;
+  grid-column-end: span 1;
+  grid-row-start: 1;
+  grid-row-end: span 1;
+  max-width: 100%;
+  order: 0;
+}
+
 /*  Pre-loader Component css
     -------------------------------------------------------------------------------------------*/
 /* Loader wrapper */

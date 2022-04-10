@@ -1,4 +1,5 @@
 import logo from './theme-assets/images-3d-animation/logo.png';
+import Slider from 'react-perfect-slider';
 
 function App() {
   return (
@@ -15,24 +16,24 @@ function App() {
                   <div id="navigation" className="navbar-nav ml-auto">
                      <ul className="navbar-nav mt-1">
                         <li className="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                           <a className="nav-link" href="#about">What is KAA</a>
+                           <a className="nav-link" href="#about">O que é KAA</a>
                         </li>
                         <li className="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.2s">
-                           <a className="nav-link" href="#problem-solution">Solutions</a>
+                           <a className="nav-link" href="#problem-solution">Soluções</a>
                         </li>
                         <li className="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.3s">
                            <a className="nav-link" href="#whitepaper">Whitepaper</a>
                         </li>
                         <li className="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.4s">
-                           <a className="nav-link" href="#token-sale-mobile-app">Token Sale</a>
+                           <a className="nav-link" href="#token-sale-mobile-app">Venda do Token</a>
                         </li>
                         <li className="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.5s">
                            <a className="nav-link" href="#roadmap">Roadmap</a>
                         </li>
                         <li className="dropdown show mr-4 animated" data-animation="fadeInDown" data-animation-delay="1.7s">
-                           <a className="dropdown-toggle" href="#" role="button" id="language" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span className="flag-icon flag-icon-us"></span> EN</a>
+                           <a className="dropdown-toggle" href="#" role="button" id="language" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span className="flag-icon flag-icon-br"></span> PT</a>
                            <div className="dropdown-menu" aria-labelledby="language">
-                              <a className="dropdown-item" href="#"><span className="flag-icon flag-icon-de"></span> GN</a>
+                              <a className="dropdown-item" href="#"><span className="flag-icon flag-icon-us"></span> EN</a>
                               <a className="dropdown-item" href="#"><span className="flag-icon flag-icon-es"></span> SP</a>
                               <a className="dropdown-item" href="#"><span className="flag-icon flag-icon-mq"></span> FR</a>
                            </div>
@@ -51,6 +52,50 @@ function App() {
       <div class="content-wrapper">
          <div class="content-body">
             <main>
+               <section class="head-area" id="head-area">
+                  <Slider 
+                     styles={{
+                        width: '100vw',
+                        height: '100vh'
+                     }}
+                     renderControls={(next, previous) => [
+                  ]}>
+                        <div class="head-content d-flex align-items-center slide-banner01">
+                           <div class="container">
+                              <div class="banner-wrapper">
+                                 <div class="row align-items-center">
+                                    <div class="col-lg-6 col-md-12">
+                                       <div class="banner-content pt-5">
+                                          <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Crypto ICO is modern, clean and <br class="d-none d-xl-block"/>gradient ui ico most trending <br class="d-none d-xl-block"/>template of 2018</h1>
+                                          <h3 class="d-block white animated" data-animation="fadeInUpShorter" data-animation-delay="1.6s">First decentralized marketing platform that allows <br class="d-none d-xl-block"/>merchants and affiliates.</h3>
+                                          <div class="mt-5">
+                                             <a href="#token-sale-mobile-app" class="btn btn-lg btn-gradient-purple btn-glow mr-4 mb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="1.7s">Venda do Token</a>
+                                             <a href="#whitepaper" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="1.8s">Whitepaper</a>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="head-content d-flex align-items-center slide-banner02">
+                           <div class="container">
+                              <div class="banner-wrapper">
+                                 <div class="row align-items-center">
+                                    <div class="col-lg-6 col-md-12">
+                                       <div class="banner-content pt-5">
+                                          <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Crypto ICO is modern, clean and <br class="d-none d-xl-block"/>gradient ui ico most trending <br class="d-none d-xl-block"/>template of 2018</h1>
+                                          <h3 class="d-block white animated" data-animation="fadeInUpShorter" data-animation-delay="1.6s">First decentralized marketing platform that allows <br class="d-none d-xl-block"/>merchants and affiliates.</h3>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                  </Slider>
+               </section>
+
+            
             {/* <!-- About --> */}
                <section class="about section-padding" id="about">
                   <div class="container">
