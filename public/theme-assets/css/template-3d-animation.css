@@ -4390,10 +4390,12 @@ header .navbar .dropdown .dropdown-menu .dropdown-item {
 
 .slide-banner01{
   background-image: url('../images-banner/01.jpg');
+  background-size:100% auto;
 }
 
 .slide-banner02{
-  background-image: url('../images-banner/03.jpg');
+  background-image: url('../images-banner/02.jpg');
+  background-size:100% auto;
 }
 
 #navigation #slide-line {
