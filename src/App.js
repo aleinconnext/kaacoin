@@ -221,20 +221,20 @@ function App() {
                                        </a>
                                     </div>
                                     <div class="col-6 col-md-3 text-center mt-4 animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s">
-                                       <a href="#" title="Japanese">
-                                          <img src="./theme-assets/images-3d-animation/flag-2.png" alt="Japanese"/>
+                                       <a href="#" title="Espanhol">
+                                          <img src="./theme-assets/images-3d-animation/flag-2.png" alt="Espanhol"/>
                                           <div class="lang-text">
                                              <span class="icon ti-download mr-1"></span>
-                                             <span class="language">Japanese</span>
+                                             <span class="language">Espanhol</span>
                                           </div>
                                        </a>
                                     </div>
                                     <div class="col-6 col-md-3 text-center mt-4 animated" data-animation="fadeInUpShorter" data-animation-delay="0.9s">
-                                       <a href="#" title="Chinese">
-                                          <img src="./theme-assets/images-3d-animation/flag-4.png" alt="Chinese"/>
+                                       <a href="#" title="Frances">
+                                          <img src="./theme-assets/images-3d-animation/flag-4.png" alt="Frances"/>
                                           <div class="lang-text">
                                              <span class="icon ti-download mr-1"></span>
-                                             <span class="language">Chinese</span>
+                                             <span class="language">Frances</span>
                                           </div>
                                        </a>
                                     </div>
