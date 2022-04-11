@@ -203,6 +203,15 @@ function App() {
                               <div class="whitepaper-languages">
                                  <div class="row">
                                     <div class="col-6 col-md-3 text-center mt-4 animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">
+                                       <a href="#" title="Português">
+                                          <img src="./theme-assets/images-3d-animation/flag-5.png" alt="Português"/>
+                                          <div class="lang-text">
+                                             <span class="icon ti-download mr-1"></span>
+                                             <span class="language">Português</span>
+                                          </div>
+                                       </a>
+                                    </div>
+                                    <div class="col-6 col-md-3 text-center mt-4 animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">
                                        <a href="#" title="English">
                                           <img src="./theme-assets/images-3d-animation/flag-1.png" alt="English"/>
                                           <div class="lang-text">
@@ -211,27 +220,18 @@ function App() {
                                           </div>
                                        </a>
                                     </div>
-                                    <div class="col-6 col-md-3 text-center mt-4 animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">
+                                    <div class="col-6 col-md-3 text-center mt-4 animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s">
                                        <a href="#" title="Japanese">
-                                          <img src="./theme-assets/images-3d-animation/flag-2.png" alt="English"/>
+                                          <img src="./theme-assets/images-3d-animation/flag-2.png" alt="Japanese"/>
                                           <div class="lang-text">
                                              <span class="icon ti-download mr-1"></span>
                                              <span class="language">Japanese</span>
                                           </div>
                                        </a>
                                     </div>
-                                    <div class="col-6 col-md-3 text-center mt-4 animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s">
-                                       <a href="#" title="Russian">
-                                          <img src="./theme-assets/images-3d-animation/flag-3.png" alt="English"/>
-                                          <div class="lang-text">
-                                             <span class="icon ti-download mr-1"></span>
-                                             <span class="language">Russian</span>
-                                          </div>
-                                       </a>
-                                    </div>
                                     <div class="col-6 col-md-3 text-center mt-4 animated" data-animation="fadeInUpShorter" data-animation-delay="0.9s">
                                        <a href="#" title="Chinese">
-                                          <img src="./theme-assets/images-3d-animation/flag-4.png" alt="English"/>
+                                          <img src="./theme-assets/images-3d-animation/flag-4.png" alt="Chinese"/>
                                           <div class="lang-text">
                                              <span class="icon ti-download mr-1"></span>
                                              <span class="language">Chinese</span>
