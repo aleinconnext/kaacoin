@@ -2921,10 +2921,10 @@ header .navbar.navbar-shadow {
 }
 .roadmap .swiper-slide.active .live {
   display : block;
-  background : -webkit-linear-gradient(45deg, #BF68E6, #9E48CD);
-  background :    -moz-linear-gradient(45deg, #BF68E6, #9E48CD);
-  background :      -o-linear-gradient(45deg, #BF68E6, #9E48CD);
-  background :         linear-gradient(45deg, #BF68E6, #9E48CD);
+  background : -webkit-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :    -moz-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :      -o-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :         linear-gradient(45deg, #6e28b8, #4c009c);
   padding : 8px 0;
   border-radius : 0 0 6px 6px;
   margin-top : 10px;
@@ -2938,11 +2938,11 @@ header .navbar.navbar-shadow {
   position : absolute;
   top : 0;
   display : inline-block;
-  cursor : pointer;
-  background : -webkit-linear-gradient(45deg, #BF68E6, #9E48CD);
-  background :    -moz-linear-gradient(45deg, #BF68E6, #9E48CD);
-  background :      -o-linear-gradient(45deg, #BF68E6, #9E48CD);
-  background :         linear-gradient(45deg, #BF68E6, #9E48CD);
+  cursor : pointer; 
+  background : -webkit-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :    -moz-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :      -o-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :         linear-gradient(45deg, #6e28b8, #4c009c);
   color : #FFFFFF;
   padding : 17px;
   border-radius : 50%;
@@ -3069,14 +3069,14 @@ header .navbar.navbar-shadow {
   color : #FFFFFF;
 }
 .roadmap .timestamp.active span:before {
-  content : ' ';
-  background : -webkit-linear-gradient(45deg, #BF68E6, #9E48CD);
-  background :    -moz-linear-gradient(45deg, #BF68E6, #9E48CD);
-  background :      -o-linear-gradient(45deg, #BF68E6, #9E48CD);
-  background :         linear-gradient(45deg, #BF68E6, #9E48CD);
+  content : ' '; 
+  background : -webkit-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :    -moz-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :      -o-linear-gradient(45deg, #6e28b8, #4c009c);
+  background :         linear-gradient(45deg, #6e28b8, #4c009c);
   border : none;
-  -webkit-box-shadow : 0 0 10px 0 #BF68E6;
-          box-shadow : 0 0 10px 0 #BF68E6;
+  -webkit-box-shadow : 0 0 10px 0 #6e28b8;
+          box-shadow : 0 0 10px 0 #6e28b8;
 }
 .roadmap .timestamp.active span:after {
   content : '';

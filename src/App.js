@@ -58,6 +58,8 @@ function App() {
                         width: '100vw',
                         height: '100vh'
                      }}
+                     transitionDuration={1000}
+                     autoplayDuration={6000}
                      renderControls={(next, previous) => [
                   ]}>
                         <div class="head-content d-flex align-items-center slide-banner01">
