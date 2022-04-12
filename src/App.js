@@ -72,7 +72,7 @@ function App() {
                                           <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Security Token lastreado por hectares de florestas preservadas e recuperadas</h1>
                                           <h3 class="d-block white animated" data-animation="fadeInUpShorter" data-animation-delay="1.6s">First decentralized marketing platform that allows <br class="d-none d-xl-block"/>merchants and affiliates.</h3>
                                           <div class="mt-5">
-                                             <a href="#token-sale-mobile-app" class="btn btn-lg btn-gradient-purple btn-glow mr-4 mb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="1.7s">Venda do Token</a>
+                                             {/* <a href="#token-sale-mobile-app" class="btn btn-lg btn-gradient-purple btn-glow mr-4 mb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="1.7s">Venda do Token</a> */}
                                              <a href="#whitepaper" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="1.8s">Whitepaper</a>
                                           </div>
                                        </div>
