@@ -812,7 +812,7 @@ function App() {
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
                            <h6 class="sub-title">Contatos</h6>
-                           <h2 class="title">Junte-se a nós</h2>
+                           <h2 class="title">Nossos Canais</h2>
                         </div>
                         <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Você tem alguma dúvida? ficamos felizes em ajudar.</p>
                      </div>
