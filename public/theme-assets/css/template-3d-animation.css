@@ -4398,6 +4398,10 @@ header .navbar .dropdown .dropdown-menu .dropdown-item {
   background-size:100% auto;
 }
 
+.text-justify{
+  text-align: justify;
+}
+
 #navigation #slide-line {
   background-color : #FDC800;
 }
