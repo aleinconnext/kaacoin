@@ -4547,6 +4547,15 @@ p {
 }
 
 @media (max-width: 575.98px) {
+  .slide-banner01{
+    background-image: url('../images-banner/image-012.png');
+    background-size:310% auto;
+  }
+  
+  .slide-banner02{
+    background-image: url('../images-banner/01.jpeg');
+    background-size:270% auto;
+  }
   .svg-img {
     width : 350px !important;
   }
@@ -4717,7 +4726,16 @@ p {
   }
 }
 
-@media (min-width: 576px) and (max-width: 767.98px) {
+@media (min-width: 576px) and (max-width: 768px) {
+  .slide-banner01{
+    background-image: url('../images-banner/image-012.png');
+    background-size:140% auto;
+  }
+  
+  .slide-banner02{
+    background-image: url('../images-banner/01.jpeg');
+    background-size:120% auto;
+  }
   .svg-img {
     width : 425px !important;
   }
