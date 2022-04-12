@@ -108,17 +108,17 @@ function App() {
                            <h6 class="sub-title">Sobre</h6>
                            <h2 class="title">O que é KAA Coin</h2>
                         </div>
-                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">O KAA COIN Security Token is a smart contract trading in 
-                           <br class="d-none d-xl-block" />Blockchain network exchanges.
+                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">O KAA COIN Security Token é um Smart Contract negociado na  
+                           <br class="d-none d-xl-block" />Binance Exchange com a segurança da Blockchain Ethereum.
                         </p>
                      </div>
                      <div class="content-area">
                         <div class="row">
                            <div class="col-md-12 col-lg-6">
-                              <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">We built a platform for <br class="d-none d-xl-block" /> The crypto trading Industry</h4>
-                              <h6 class="pt-4 pb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">Cryptocurrency exchanges or digital currency exchanges (DCE) are businesses that allow customers to trade cryptocurrencies or digital currencies for other assets.</h6>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">Cryptocurrency exchanges or digital currency exchanges (DCE) are businesses that allow customers to trade cryptocurrencies or digital currencies for other assets</p>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s">Creators of digital currencies are often independent of the DCEs that trade the currency.[6] In one type of system, digital currency providers (DCP), are businesses that keep and administer accounts.</p>
+                              <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">Como colaborar para ajudar o planeta e ao mesmo tempo lucrar com essa atitude?</h4>
+                              {/* <h6 class="pt-4 pb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">Cryptocurrency exchanges or digital currency exchanges (DCE) are businesses that allow customers to trade cryptocurrencies or digital currencies for other assets.</h6> */}
+                              <p class="animated text-justify" data-animation="fadeInUpShorter" data-animation-delay="0.7s">O KAA COIN é um Security Token lastreado por mais de 160 mil hectares de florestas preservadas e recuperadas, somado a manejo sustentável e outras atividades econômicas como commodities sustentáveis e convencionais em suas áreas. E além disso temos as nossas verticais associadas aos Objetivos de Desenvolvimento Sustentável (ODS), a projetos so­ci­o­am­bi­en­tais na região que estamos inseridos que torna faz com que além de você estar investindo na segurança do futuro do planeta também contar com um retorno de investimento superior ao LCI e ao LCA.</p>
+                              <p class="animated text-justify" data-animation="fadeInUpShorter" data-animation-delay="0.8s">Uma unidade do KAA COIN Security Token equivale a 2 Unidades de Créditos de Carbono e os clientes que tiverem adquirido o Security Token podem comprar um pacote de Crédito de Carbono com desconto de proporcional a sua quantidade de KAA COIN, com possibilidade a certificação de Carbono Neutro e ESG.</p>
                            </div>
                            <div class="col-md-12 col-lg-6 animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">
                               <div class="position-relative what-is-crypto-img float-xl-right">
@@ -139,21 +139,22 @@ function App() {
                   <div class="container">
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
-                           <h6 class="sub-title">Solutions</h6>
-                           <h2 class="title">Problems &amp; <strong>Solutions</strong></h2>
+                           <h6 class="sub-title">Soluções</h6>
+                           <h2 class="title">Problemas &amp; <strong>Soluções</strong></h2>
                         </div>
-                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">A situação é crítica: segundo o World Resources Institute (WRI), o mundo perdeu 4,2 milhões de hectares de florestas  
-                           <br class="d-none d-xl-block" />tropicais primárias em 2020, um aumento de 12% frente a 2019. E o Brasil foi responsável por 1,7 milhão de hectares perdidos.
+                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">A situação é crítica: segundo o World Resources Institute (WRI), o mundo perdeu 4,2 milhões de hectares de florestas tropicais primárias em 2020, um aumento de 12% frente a 2019. E o Brasil foi responsável por 1,7 milhão de hectares perdidos.  
+                        {/* <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">A situação é crítica: segundo o World Resources Institute (WRI), o mundo perdeu 4,2 milhões de hectares de florestas   */}
+                           {/* <br class="d-none d-xl-block" />tropicais primárias em 2020, um aumento de 12% frente a 2019. E o Brasil foi responsável por 1,7 milhão de hectares perdidos. */}
                         </p>
                      </div>
                      <div class="problems">
                         <div class="row">
                            <div class="col-md-12 col-lg-6">
                               <div class="heading mb-4">
-                                 <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.2s">Problems</h4>
+                                 <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.2s">Problemas</h4>
                               </div>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s" style={{textAlign: 'justify'}}>E com as queimadas na Amazônia, o mundo inteiro passou a acreditar que o Brasil seja o principal responsável para o aumento da temperatura na Terra. Entretanto, o Brasil não está entre os 6 maiores poluidores do planeta que são
-                                 China, Estados Unidos, Índia, Rússia e Japão, seguidos do somatório dos países da União Europeia.</p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s" style={{textAlign: 'justify'}}>As queimadas na Amazônia, faz o mundo inteiro acreditar que o Brasil seja o principal responsável pelo aumento da temperatura na Terra. Entretanto, o Brasil não está entre os 6 maiores poluidores do planeta que são China, Estados Unidos, Índia, Rússia e Japão, seguidos do somatório dos países da União Europeia.
+                              De acordo com a ONU Meio Ambiente, as emissões globais de gases do efeito estufa em 2030 precisam ser de 25% a 55% menores do que em 2018 para limitar o aumento de temperatura média da Terra a entre 1,5°C e 2°C, limite considerado seguro por cientistas.</p>
                               {/* <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">Even interoperating new technologies with old centralised resources can prove useful in making the paradigm shift from Web 2 to Web 3 happen. Now we own our data, we can prove that we own what we have and have created it on different platforms, but how do we put it together into a whole new cohesive framework.</p> */}
                            </div>
                            <div class="col-md-12 col-lg-6 text-center">
@@ -168,11 +169,10 @@ function App() {
                            </div>
                            <div class="col-md-12 col-lg-6 move-first">
                               <div class="heading mb-4">
-                                 <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.2s">Solutions</h4>
+                                 <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.2s">Soluções</h4>
                               </div>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s" style={{textAlign: 'justify'}}>Diante a esse cenário diversas empresas, entidades e estados estão
-                                 adotando metas de sustentabilidade mais desafiadoras e ambiciosas para promover um desenvolvimento econômico mais seguro, impactar positivamente a sociedade através de investimentos em negócios
-                                 sustentáveis, criação de "empregos verdes", reduzindo ou compensando a quantidade de carbono emitido pelas empresas e órgãos governamentais.</p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s" style={{textAlign: 'justify'}}>E uma das formas de contribuir com esse objetivo é reduzir e/ou neutralizar as emissões de carbono. E hoje o Brasil é o principal produtor mundial dessa commodities e está na dianteira da criação de uma nova economia verde de conservação de florestas. O país tem cerca de 560 milhões de hectares de área com vegetação nativa, o que corresponde a 66% do território total, representando um enorme potencial para o mercado de créditos de carbono baseado na redução do desmatamento e degradação da vegetação nativa.</p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s" style={{textAlign: 'justify'}}>Nós da KAA COIN entendemos que este é o momento de utilizarmos todas as nossas riquezas naturais aliada ao que existe de mais moderno em tecnologias, inovações, estratégias e know-how disponíveis para desacelerarmos as mudanças climáticas, preservarmos o Meio Ambiente, protegendo o Planeta e principalmente a vida.</p>
                               {/* <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">In centralized banking and economic systems such as the Federal Reserve System, corporate boards or governments control the supply of currency by printing units of fiat money or demanding additions to digital banking ledgers.</p> */}
                            </div>
                         </div>
@@ -339,7 +339,7 @@ function App() {
                </section>
                {/* <!--/ Roadmap --> */}
                {/* <!-- Our Coin --> */}
-               <section id="our-coin" class="our-coin section-padding ">
+               {/* <section id="our-coin" class="our-coin section-padding ">
                   <div class="container">
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
@@ -365,28 +365,30 @@ function App() {
                         </div>
                      </div>
                   </div>
-               </section>
+               </section> */}
                {/* <!--/ Our Coin --> */}
                {/* <!-- Token Stats --> */}
                <section id="token-distribution" class="token-distribution section-padding">
                   <div class="container">
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
-                           <h6 class="sub-title">Token Stats</h6>
-                           <h2 class="title">Token Distribution</h2>
+                           <h6 class="sub-title">Composição </h6>
+                           <h2 class="title">Token Distribuição</h2>
                         </div>
-                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">The ICO usually takes place before the project is completed, and helps fund the expenses
-                           <br class="d-none d-xl-block"/>undertaken by the founding team until launch. For some of the larger projects.
+                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Conheça a divisão do Security Token mais lucrativo e sustentável da atualidade.
+                           {/* <br class="d-none d-xl-block"/>undertaken by the founding team until launch. For some of the larger projects. */}
                         </p>
                      </div>
                      <div class="row">
                         <div class="col-md-12 col-lg-6 pr-5">
                            <div class="content-area">
-                              <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">Details</h4>
-                              <p class="mt-1 animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">To calculate the number of tokens you’ll receive, you can follow the following formula. Note that this applies to public presale contributions only. If you participated through a syndicate or private presale,</p>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">To calculate the number of tokens you’ll receive, you can follow the following formula. Note that this applies to public presale contributions only. If you participated through a syndicate or private presale,</p>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s"><span>Symbol:</span> <strong class="grey-accent2">CIC</strong></p>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.9s"><span>Initial Value:</span> <strong class="grey-accent2">1 ETH = 3177.38 CIC</strong></p>
+                              <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">Detalhes</h4>
+                              <p class="mt-1 animated text-justify" data-animation="fadeInUpShorter" data-animation-delay="0.6s">O ICO no mercado cripto é equivalente ao IPO feito pelas empresas que decidem entrar na bolsa. Em um ICO, os investidores podem tanto fazer os seus investimentos com dinheiro, quanto usar outras criptomoedas, como o Bitcoin e a Ether, da rede Ethereum. para ter acesso ao KAA COIN Security Token. 
+                              O KAA COIN Security Token é um ativo digital criptografado com segurança Blockchain da Ethereum que tem seus investimentos feito em mais de 160 mil hectares de florestas preservadas e recuperadas, em manejo sustentável e outras atividades econômicas como commodities sustentáveis e convencionais em suas áreas e divide lucros para os mesmos investidores a curto prazo.</p>
+                              {/* <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">To calculate the number of tokens you’ll receive, you can follow the following formula. Note that this applies to public presale contributions only. If you participated through a syndicate or private presale,</p> */}
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s"><span>Símbolo:</span> <strong class="grey-accent2">KAA</strong></p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.9s"><span>Total supply:</span> <strong class="grey-accent2">50.000.000 Tokens</strong></p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.9s"><span>Equivalência:</span> <strong class="grey-accent2">1 KAA = 2 Créditos de Carbono</strong></p>
                               <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="1.0s"><span>Type:</span> <strong class="grey-accent2">ERC20</strong></p>
                            </div>
                         </div>
@@ -404,11 +406,11 @@ function App() {
                   <div class="container">
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
-                           <h6 class="sub-title">Creative</h6>
-                           <h2 class="title">Team</h2>
+                           <h6 class="sub-title">Nosso</h6>
+                           <h2 class="title">Time</h2>
                         </div>
-                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">A cryptocurrency (or crypto currency) is a digital asset designed to work as a medium
-                           <br class="d-none d-xl-block"/>of exchange that uses cryptography to secure its transactions.
+                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Temos um time com especialistas em diversos setores de négócios, que podem orientar
+                           <br class="d-none d-xl-block"/>na melhor estrátégia de para a valorização.
                         </p>
                      </div>
                      <div class="row team-intro justify-content-center text-center">
