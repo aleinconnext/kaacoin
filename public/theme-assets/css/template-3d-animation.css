@@ -3197,8 +3197,14 @@ header .navbar.navbar-shadow {
   font-size : 0.875rem;
 }
 
-.team .profile .name {
+.team .profile {
   font-size : 1.125rem;
+  font-weight : 700;
+  color : #FFFFFF;
+}
+
+.name {
+  font-size : 1.0rem;
   font-weight : 700;
   color : #FFFFFF;
 }

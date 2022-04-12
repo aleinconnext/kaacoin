@@ -437,7 +437,7 @@ function App() {
                                     <img src="./theme-assets/images-3d-animation/user-9.png" alt="team-profile-1" class="rounded-circle" width="128"/>
                                  </div>
                                  <div class="profile align-self-center">
-                                    <div class="name">Logan S. Perez</div>
+                                    <div class="name">Krishnamurt S.</div>
                                     <div class="role">CEO &amp; CFO</div>
                                     <div class="social-profile mt-3">
                                        <a href="#" title="Linkedin" class="font-medium grey-accent2 mr-2"><i class="ti-linkedin"></i></a>
@@ -453,8 +453,8 @@ function App() {
                                     <img src="./theme-assets/images-3d-animation/user-6.png" alt="team-profile-1" class="rounded-circle" width="128"/>
                                  </div>
                                  <div class="profile align-self-center">
-                                    <div class="name">Susan J. Newsom</div>
-                                    <div class="role">Graphic Designer</div>
+                                    <div class="name">David Alves</div>
+                                    <div class="role">CPO</div>
                                     <div class="social-profile mt-3">
                                        <a href="#" title="Linkedin" class="font-medium grey-accent2 mr-2"><i class="ti-linkedin"></i></a>
                                        <a href="#" title="Twitter" class="font-medium grey-accent2 mr-2"><i class="ti-twitter-alt"></i></a>
@@ -469,8 +469,8 @@ function App() {
                                     <img src="./theme-assets/images-3d-animation/user-2.png" alt="team-profile-1" class="rounded-circle" width="128"/>
                                  </div>
                                  <div class="profile align-self-center">
-                                    <div class="name">Mary J. Wardle</div>
-                                    <div class="role">CPO</div>
+                                    <div class="name">Sando Monteiro</div>
+                                    <div class="role">Graphic Designer</div>
                                     <div class="social-profile mt-3">
                                        <a href="#" title="Linkedin" class="font-medium grey-accent2 mr-2"><i class="ti-linkedin"></i></a>
                                        <a href="#" title="Twitter" class="font-medium grey-accent2 mr-2"><i class="ti-twitter-alt"></i></a>
@@ -485,7 +485,7 @@ function App() {
                                     <img src="./theme-assets/images-3d-animation/user-10.png" alt="team-profile-1" class="rounded-circle" width="128"/>
                                  </div>
                                  <div class="profile align-self-center">
-                                    <div class="name">Nicholas M. Sharpe</div>
+                                    <div class="name">Alessandro Gonçalves</div>
                                     <div class="role">UI / UX Designer</div>
                                     <div class="social-profile mt-3">
                                        <a href="#" title="Linkedin" class="font-medium grey-accent2 mr-2"><i class="ti-linkedin"></i></a>
@@ -495,7 +495,7 @@ function App() {
                                  </div>
                               </div>
                            </div>
-                           <div class="col-sm-12 col-md-6 col-lg-4 mb-5 animated" data-animation="flipInX" data-animation-delay="1.2s" data-toggle="modal" data-target="#teamUser4">
+                           {/* <div class="col-sm-12 col-md-6 col-lg-4 mb-5 animated" data-animation="flipInX" data-animation-delay="1.2s" data-toggle="modal" data-target="#teamUser4">
                               <div class="d-flex team-member">
                                  <div class="team-img float-left mr-3">
                                     <img src="./theme-assets/images-3d-animation/user-4.png" alt="team-profile-1" class="rounded-circle" width="128"/>
@@ -526,7 +526,7 @@ function App() {
                                     </div>
                                  </div>
                               </div>
-                           </div>
+                           </div> */}
                         </div>
                      </div>
                   </div>
