@@ -269,45 +269,45 @@ function App() {
                                     <div class="swiper-slide">
                                        <div class="roadmap-info">
                                           <div class="timestamp completed">
-                                             <span class="date">November 2017</span>
+                                             <span class="date">Fevereiro de 2022</span>
                                           </div>
                                           <div class="status completed">
-                                             <span>Crypto Ico <br/>Platform idea</span>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                       <div class="roadmap-info">
-                                          <div class="timestamp completed">
-                                             <span class="date">January 2018</span>
-                                          </div>
-                                          <div class="status completed">
-                                             <span>Technical &amp; strategy <br/>devlopment</span>
+                                             <span>Ideia e desenvolvimento <br/>técnico e estratégico</span>
                                           </div>
                                        </div>
                                     </div>
                                     <div class="swiper-slide active">
                                        <div class="roadmap-info">
-                                          <div class="timestamp active">
-                                             <span class="date">May 2018</span>
+                                          <div class="timestamp completed active">
+                                             <span class="date">Abril de 2022</span>
                                           </div>
-                                          <div class="status active">
-                                             <span>Ico Realease</span>
-                                             <span class="live">Live Now</span>
+                                          <div class="status completed active">
+                                             <span>Conclusão do Projeto, <br/>Plataforma e Token</span>
+                                             <span class="live">Atualmente</span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                       <div class="roadmap-info">
+                                          <div class="timestamp">
+                                             <span class="date">Junho de 2022</span>
+                                          </div>
+                                          <div class="status">
+                                             <span>Pré venda - 1.000.000 <br/>Tokens</span>
                                           </div>
                                        </div>
                                     </div>
                                     <div class="swiper-slide">
                                        <div class="roadmap-info">
                                           <div class="timestamp remaining">
-                                             <span class="date">August 2018</span>
+                                             <span class="date">Julho de 2022</span>
                                           </div>
                                           <div class="status remaining">
-                                             <span>Beta version of <br/>Crypto Ico </span>
+                                             <span>ICO Initial Coin Offering <br/> 5.000.000 Tokens </span>
                                           </div>
                                        </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    {/* <div class="swiper-slide">
                                        <div class="roadmap-info">
                                           <div class="timestamp remaining">
                                              <span class="date">November 2018</span>
@@ -316,14 +316,14 @@ function App() {
                                              <span>Software development kit <br/>for integrations</span>
                                           </div>
                                        </div>
-                                    </div>
+                                    </div> */}
                                     <div class="swiper-slide">
                                        <div class="roadmap-info">
                                           <div class="timestamp remaining">
-                                             <span class="date">December 2018</span>
+                                             <span class="date">Agosto de 2022</span>
                                           </div>
                                           <div class="status remaining">
-                                             <span>Mobile apps for <br/>iOS &amp; Android</span>
+                                             <span>Market Exchange <br/>24.000.000 Tokens</span>
                                           </div>
                                        </div>
                                     </div>
