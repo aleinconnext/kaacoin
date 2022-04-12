@@ -41,7 +41,7 @@ function App() {
                      </ul>
                      <span id="slide-line"></span>
                      <form className="form-inline mt-2 mt-md-0">
-                        <a className="btn btn-sm btn-gradient-purple btn-glow my-2 my-sm-0 animated" data-animation="fadeInDown" data-animation-delay="1.8s" href="https://pixinvent.com/demo/crypto-ico-admin/html/ltr/vertical-menu/account-login.html" target="_blank">Sign in</a>
+                           <a className="btn btn-sm btn-gradient-purple btn-glow my-2 my-sm-0 animated" data-animation="fadeInDown" data-animation-delay="1.8s" href="#" target="_blank">Entrar</a>
                      </form>
                   </div>
                </div>
@@ -70,7 +70,7 @@ function App() {
                                        <div class="banner-content pt-5">
                                           {/* <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Security Token lastreado por hectares <br class="d-none d-xl-block"/>de florestas preservadas e recuperadas, somado a atividades econômicas <br class="d-none d-xl-block"/>sustentáveis em suas áreas</h1> */}
                                           <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Security Token lastreado por hectares de florestas preservadas e recuperadas</h1>
-                                          <h3 class="d-block white animated" data-animation="fadeInUpShorter" data-animation-delay="1.6s">First decentralized marketing platform that allows <br class="d-none d-xl-block"/>merchants and affiliates.</h3>
+                                          <h3 class="d-block white animated" data-animation="fadeInUpShorter" data-animation-delay="1.6s">Agora ficou fácil preservar o planeta <br class="d-none d-xl-block"/>com o KAA Coin.</h3>
                                           <div class="mt-5">
                                              {/* <a href="#token-sale-mobile-app" class="btn btn-lg btn-gradient-purple btn-glow mr-4 mb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="1.7s">Venda do Token</a> */}
                                              <a href="#whitepaper" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="1.8s">Whitepaper</a>
@@ -89,7 +89,7 @@ function App() {
                                        <div class="banner-content pt-5">
                                           {/* <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Crypto ICO is modern, clean and <br class="d-none d-xl-block"/>gradient ui ico most trending <br class="d-none d-xl-block"/>template of 2018</h1> */}
                                           <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Investimento com retorno superior ao LCI e ao LCA, que conta com a segurança e liquidez do Blockchain da Ethereum</h1>
-                                          <h3 class="d-block white animated" data-animation="fadeInUpShorter" data-animation-delay="1.6s">First decentralized marketing platform that allows <br class="d-none d-xl-block"/>merchants and affiliates.</h3>
+                                          <h3 class="d-block white animated" data-animation="fadeInUpShorter" data-animation-delay="1.6s">Conheça nossa proposta para a preservação <br class="d-none d-xl-block"/>e conservação ambiental.</h3>
                                        </div>
                                     </div>
                                  </div>
@@ -108,8 +108,8 @@ function App() {
                            <h6 class="sub-title">Sobre</h6>
                            <h2 class="title">O que é KAA Coin</h2>
                         </div>
-                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">O KAA COIN Security Token é um Smart Contract negociado na  
-                           <br class="d-none d-xl-block" />Binance Exchange com a segurança da Blockchain Ethereum.
+                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">O KAA COIN Security Token é um Smart Contract negociado na Binance Exchange 
+                           <br class="d-none d-xl-block" />com a segurança da Blockchain Ethereum.
                         </p>
                      </div>
                      <div class="content-area">
@@ -117,16 +117,16 @@ function App() {
                            <div class="col-md-12 col-lg-6">
                               <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">Como colaborar para ajudar o planeta e ao mesmo tempo lucrar com essa atitude?</h4>
                               {/* <h6 class="pt-4 pb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">Cryptocurrency exchanges or digital currency exchanges (DCE) are businesses that allow customers to trade cryptocurrencies or digital currencies for other assets.</h6> */}
-                              <p class="animated text-justify" data-animation="fadeInUpShorter" data-animation-delay="0.7s">O KAA COIN é um Security Token lastreado por mais de 160 mil hectares de florestas preservadas e recuperadas, somado a manejo sustentável e outras atividades econômicas como commodities sustentáveis e convencionais em suas áreas. E além disso temos as nossas verticais associadas aos Objetivos de Desenvolvimento Sustentável (ODS), a projetos so­ci­o­am­bi­en­tais na região que estamos inseridos que torna faz com que além de você estar investindo na segurança do futuro do planeta também contar com um retorno de investimento superior ao LCI e ao LCA.</p>
-                              <p class="animated text-justify" data-animation="fadeInUpShorter" data-animation-delay="0.8s">Uma unidade do KAA COIN Security Token equivale a 2 Unidades de Créditos de Carbono e os clientes que tiverem adquirido o Security Token podem comprar um pacote de Crédito de Carbono com desconto de proporcional a sua quantidade de KAA COIN, com possibilidade a certificação de Carbono Neutro e ESG.</p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">O KAA COIN é um Security Token lastreado por mais de 160 mil hectares de florestas preservadas e recuperadas, somado a manejo sustentável e outras atividades econômicas como commodities sustentáveis e convencionais em suas áreas. E além disso temos as nossas verticais associadas aos Objetivos de Desenvolvimento Sustentável (ODS), a projetos so­ci­o­am­bi­en­tais na região que estamos inseridos que torna faz com que além de você estar investindo na segurança do futuro do planeta também contar com um retorno de investimento superior ao LCI e ao LCA.</p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s">Uma unidade do KAA COIN Security Token equivale a 2 Unidades de Créditos de Carbono e os clientes que tiverem adquirido o Security Token podem comprar um pacote de Crédito de Carbono com desconto de proporcional a sua quantidade de KAA COIN, com possibilidade a certificação de Carbono Neutro e ESG.</p>
                            </div>
                            <div class="col-md-12 col-lg-6 animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">
                               <div class="position-relative what-is-crypto-img float-xl-right">
                                  <img class="img-fluid" src="./theme-assets/images-3d-animation/what-is-crypto.png" alt="What is Crypto?" />
-                                 <div class="play-video text-center">
+                                 {/* <div class="play-video text-center">
                                     <a href="#" class="play rounded-circle btn-gradient-purple btn-glow video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/UXAJu3zS4bU" data-target="#ico-modal"><i class="ti-control-play"></i></a>
                                     <span class="mt-2 d-none d-md-block">How it works</span>
-                                 </div>
+                                 </div> */}
                               </div>
                            </div>
                         </div>
@@ -153,7 +153,7 @@ function App() {
                               <div class="heading mb-4">
                                  <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.2s">Problemas</h4>
                               </div>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s" style={{textAlign: 'justify'}}>As queimadas na Amazônia, faz o mundo inteiro acreditar que o Brasil seja o principal responsável pelo aumento da temperatura na Terra. Entretanto, o Brasil não está entre os 6 maiores poluidores do planeta que são China, Estados Unidos, Índia, Rússia e Japão, seguidos do somatório dos países da União Europeia.
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">As queimadas na Amazônia, faz o mundo inteiro acreditar que o Brasil seja o principal responsável pelo aumento da temperatura na Terra. Entretanto, o Brasil não está entre os 6 maiores poluidores do planeta que são China, Estados Unidos, Índia, Rússia e Japão, seguidos do somatório dos países da União Europeia.
                               De acordo com a ONU Meio Ambiente, as emissões globais de gases do efeito estufa em 2030 precisam ser de 25% a 55% menores do que em 2018 para limitar o aumento de temperatura média da Terra a entre 1,5°C e 2°C, limite considerado seguro por cientistas.</p>
                               {/* <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">Even interoperating new technologies with old centralised resources can prove useful in making the paradigm shift from Web 2 to Web 3 happen. Now we own our data, we can prove that we own what we have and have created it on different platforms, but how do we put it together into a whole new cohesive framework.</p> */}
                            </div>
@@ -171,8 +171,8 @@ function App() {
                               <div class="heading mb-4">
                                  <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.2s">Soluções</h4>
                               </div>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s" style={{textAlign: 'justify'}}>E uma das formas de contribuir com esse objetivo é reduzir e/ou neutralizar as emissões de carbono. E hoje o Brasil é o principal produtor mundial dessa commodities e está na dianteira da criação de uma nova economia verde de conservação de florestas. O país tem cerca de 560 milhões de hectares de área com vegetação nativa, o que corresponde a 66% do território total, representando um enorme potencial para o mercado de créditos de carbono baseado na redução do desmatamento e degradação da vegetação nativa.</p>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s" style={{textAlign: 'justify'}}>Nós da KAA COIN entendemos que este é o momento de utilizarmos todas as nossas riquezas naturais aliada ao que existe de mais moderno em tecnologias, inovações, estratégias e know-how disponíveis para desacelerarmos as mudanças climáticas, preservarmos o Meio Ambiente, protegendo o Planeta e principalmente a vida.</p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">E uma das formas de contribuir com esse objetivo é reduzir e/ou neutralizar as emissões de carbono. E hoje o Brasil é o principal produtor mundial dessa commodities e está na dianteira da criação de uma nova economia verde de conservação de florestas. O país tem cerca de 560 milhões de hectares de área com vegetação nativa, o que corresponde a 66% do território total, representando um enorme potencial para o mercado de créditos de carbono baseado na redução do desmatamento e degradação da vegetação nativa.</p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">Nós da KAA COIN entendemos que este é o momento de utilizarmos todas as nossas riquezas naturais aliada ao que existe de mais moderno em tecnologias, inovações, estratégias e know-how disponíveis para desacelerarmos as mudanças climáticas, preservarmos o Meio Ambiente, protegendo o Planeta e principalmente a vida.</p>
                               {/* <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">In centralized banking and economic systems such as the Federal Reserve System, corporate boards or governments control the supply of currency by printing units of fiat money or demanding additions to digital banking ledgers.</p> */}
                            </div>
                         </div>
@@ -184,10 +184,10 @@ function App() {
                <section id="whitepaper" class="whitepaper section-padding">
                   <div class="container">
                      <div class="heading text-center">
-                        <h6 class="sub-title">Documents</h6>
+                        <h6 class="sub-title">Documentos</h6>
                         <h2 class="title">Whitepaper</h2>
-                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Terms of service are rules by which one must agree to abide in order to use a service.
-                           <br class="d-none d-xl-block"/>Terms of service can also be merely a disclaimer, especially regarding the use of websites.
+                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Baixe o nosso Whitepaper e conheça todo o projeto de sustentabilidade mais lucrativo do planeta.
+                           {/* <br class="d-none d-xl-block"/>Terms of service can also be merely a disclaimer, especially regarding the use of websites. */}
                         </p>
                      </div>
                      <div class="row">
@@ -198,10 +198,10 @@ function App() {
                         </div>
                         <div class="col-lg-7 col-md-12">
                            <div class="content-area">
-                              <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">Read Whitepaper</h4>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">A white paper is an authoritative report or guide that informs readers concisely about a complex issue and presents the issuing body's philosophy on the matter. It is meant to help readers understand an issue, solve a problem, or make a decision.</p>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">The initial British term concerning a type of government-issued document has proliferated, taking a somewhat new meaning in business. In business, a white paper is closer to a form of marketing presentation, a tool meant to persuade customers and partners and promote a product or viewpoint, White papers may be considered grey literature.</p>
-                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s">Since the early 1990s, the term "white paper", or "whitepaper", has been applied to documents used as marketing or sales tools in business.</p>
+                              <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">Leia nosso Whitepaper</h4>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">Desde o início da década de 1990, o termo "white paper", ou "whitepaper", tem sido aplicado a documentos usados como ferramentas de marketing e negócios.</p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">Um white paper é um documento oficial que explica de forma concisa tudo sobre o Projeto KAA COIN Security Token, incluindo a sua tecnologia, investimento e toda a sua estratégia de preservação e recuperação de florestas da Amazônia e como tornar tudo lucrativo para todo o ecossistema envolvido na salvação do planeta.</p>
+                              <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s">Acesse o nosso whitepaper clicando em uma das opções abaixo e entenda porque o KAA COIN Token é a sua melhor opção de investimento.</p>
                               <div class="whitepaper-languages">
                                  <div class="row">
                                     <div class="col-6 col-md-3 text-center mt-4 animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">
@@ -253,12 +253,13 @@ function App() {
                   <div class="container">
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
-                           <h6 class="sub-title">Implementation</h6>
+                           <h6 class="sub-title">Implementação</h6>
                            <h2 class="title">Roadmap</h2>
                         </div>
-                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">This is a list of cryptocurrencies. The number of cryptocurrencies available over
-                           <br class="d-none d-xl-block"/>the internet as of 7 January 2018 is over 1384 and growing.
+                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Continuamos melhorando as suas estratégias de sustentabilidade de preservação e recuperação de florestas e os serviços em todos os níveis, inclusive em seus contratos inteligentes, tecnologia, investimentos e mercado de créditos de carbono. Esta área mostra o progresso feito até agora e quais são os nossos próximos passos.
+                           {/* <br class="d-none d-xl-block"/>the internet as of 7 January 2018 is over 1384 and growing. */}
                         </p>
+                        {/* <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">Continuamos melhorando as suas estratégias de sustentabilidade de preservação e recuperação de florestas e os serviços em todos os níveis, inclusive em seus contratos inteligentes, tecnologia, investimentos e mercado de créditos de carbono. Esta área mostra o progresso feito até agora e quais são os nossos próximos passos.</p> */}
                      </div>
                      <div class="row animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">
                         <div class="col-12">
@@ -383,7 +384,7 @@ function App() {
                         <div class="col-md-12 col-lg-6 pr-5">
                            <div class="content-area">
                               <h4 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">Detalhes</h4>
-                              <p class="mt-1 animated text-justify" data-animation="fadeInUpShorter" data-animation-delay="0.6s">O ICO no mercado cripto é equivalente ao IPO feito pelas empresas que decidem entrar na bolsa. Em um ICO, os investidores podem tanto fazer os seus investimentos com dinheiro, quanto usar outras criptomoedas, como o Bitcoin e a Ether, da rede Ethereum. para ter acesso ao KAA COIN Security Token. 
+                              <p class="mt-1 animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">O ICO no mercado cripto é equivalente ao IPO feito pelas empresas que decidem entrar na bolsa. Em um ICO, os investidores podem tanto fazer os seus investimentos com dinheiro, quanto usar outras criptomoedas, como o Bitcoin e a Ether, da rede Ethereum. para ter acesso ao KAA COIN Security Token. 
                               O KAA COIN Security Token é um ativo digital criptografado com segurança Blockchain da Ethereum que tem seus investimentos feito em mais de 160 mil hectares de florestas preservadas e recuperadas, em manejo sustentável e outras atividades econômicas como commodities sustentáveis e convencionais em suas áreas e divide lucros para os mesmos investidores a curto prazo.</p>
                               {/* <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">To calculate the number of tokens you’ll receive, you can follow the following formula. Note that this applies to public presale contributions only. If you participated through a syndicate or private presale,</p> */}
                               <p class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s"><span>Símbolo:</span> <strong class="grey-accent2">KAA</strong></p>
@@ -406,14 +407,14 @@ function App() {
                   <div class="container">
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
-                           <h6 class="sub-title">Nosso</h6>
-                           <h2 class="title">Time</h2>
+                           <h6 class="sub-title">Nossa</h6>
+                           <h2 class="title">Equipe</h2>
                         </div>
                         <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Temos um time com especialistas em diversos setores de négócios, que podem orientar
-                           <br class="d-none d-xl-block"/>na melhor estrátégia de para a valorização.
+                           <br class="d-none d-xl-block"/>na melhor estrátégia de para a valorização do seu investimento.
                         </p>
                      </div>
-                     <div class="row team-intro justify-content-center text-center">
+                     {/* <div class="row team-intro justify-content-center text-center">
                         <div class="col-12 col-md-4 col-lg-2 team-width animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">
                            <span>18</span>
                            <p>Creative and
@@ -428,7 +429,7 @@ function App() {
                            <span>10</span>
                            <p>Years of blockchain experience</p>
                         </div>
-                     </div>
+                     </div> */}
                      <div class="team-profile mt-5">
                         <div class="row mb-5">
                            <div class="col-sm-12 col-md-6 col-lg-4 mb-5 animated" data-animation="flipInX" data-animation-delay="0.8s">
@@ -470,7 +471,7 @@ function App() {
                                  </div>
                                  <div class="profile align-self-center">
                                     <div class="name">Sando Monteiro</div>
-                                    <div class="role">Graphic Designer</div>
+                                    <div class="role">CTO</div>
                                     <div class="social-profile mt-3">
                                        <a href="#" title="Linkedin" class="font-medium grey-accent2 mr-2"><i class="ti-linkedin"></i></a>
                                        <a href="#" title="Twitter" class="font-medium grey-accent2 mr-2"><i class="ti-twitter-alt"></i></a>
@@ -533,7 +534,7 @@ function App() {
                </section>
                {/* <!--/ Team --> */}
                {/* <!-- FAQ --> */}
-               <section id="faq" class="faq section-padding">
+               {/* <section id="faq" class="faq section-padding">
                   <div class="container">
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
@@ -805,32 +806,32 @@ function App() {
                         </div>
                      </div>
                   </div>
-               </section>
+               </section> */}
                {/* <!--/ FAQ --> */}
                {/* <!-- Contact --> */}
                <section id="contact" class="contact section-padding">
                   <div class="container">
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
-                           <h6 class="sub-title">JOIN US</h6>
-                           <h2 class="title">Contact</h2>
+                           <h6 class="sub-title">Contatos</h6>
+                           <h2 class="title">Junte-se a nós</h2>
                         </div>
-                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Have questions? We’re happy to help.</p>
+                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Você tem alguma dúvida? ficamos felizes em ajudar.</p>
                      </div>
                      <div class="row">
                         <div class="col-xl-8 col-md-12 mx-auto">
                            <ul class="list-unstyled contact-info pb-5 mb-5">
                               <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">
                                  <i class="ti-headphone"></i>
-                                 <span class="ml-1">+44 0123 4567</span>
+                                 <span class="ml-1">+55 93 8422-9597</span>
                               </li>
                               <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">
                                  <i class="ti-email"></i>
-                                 <span class="ml-1">info@yourcompany.com</span>
+                                 <span class="ml-1">contato@kaacoin.earth</span>
                               </li>
                               <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">
                                  <i class="ti-comment-alt"></i>
-                                 <span class="ml-1">Join us on Telegram</span>
+                                 <span class="ml-1">Nosso Telegram</span>
                               </li>
                            </ul>
                            {/* <form class="text-center">
@@ -875,7 +876,7 @@ function App() {
                            <span class="logo-text"> KAA Coin</span>
                         </div>
                         <div class="about-text animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
-                           <p class="grey-accent2">Crypto Ico is a blockchain platform that allows users to make payments, create and request loans and crowdfund projects.</p>
+                           <p class="grey-accent2">O KAA COIN Security Token é um Smart Contract negociado na Binance Exchange com a segurança da Blockchain Ethereum.</p>
                         </div>
                         <ul class="social-buttons list-unstyled mb-5">
                            <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s"><a href="#" title="Facebook" class="btn font-medium"><i class="ti-facebook"></i></a></li>
@@ -888,16 +889,16 @@ function App() {
                   </div>
                   <div class="col-md-4">
                      <div class="links">
-                        <h5 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">Useful Links</h5>
+                        <h5 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">Links Úteis</h5>
                         <ul class="useful-links float-left mr-5">
-                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s"><a href="#about">What is KAA</a></li>
-                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s"><a href="#problem-solution">Solutions</a></li>
+                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s"><a href="#about">O que é KAA</a></li>
+                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s"><a href="#problem-solution">Soluções</a></li>
                            <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s"><a href="#whitepaper">Whitepaper </a></li>
                         </ul>
                         <ul class="useful-links">
                            <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.9s"><a href="#roadmap">Roadmap</a></li>
-                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="1.0s"><a href="#team">Team</a></li>
-                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="1.1s"><a href="#">Sign in</a></li>
+                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="1.0s"><a href="#team">Equipe</a></li>
+                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="1.1s"><a href="#">Entrar</a></li>
                         </ul>
                      </div>
                   </div>
@@ -905,14 +906,15 @@ function App() {
                      <div class="feed">
                         <h5 class="title animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s">Twitter Feed</h5>
                         <div class="tweets">
-                           <span class="animated" data-animation="fadeInUpShorter" data-animation-delay="1.0s">More about our most KAA Coin Crypto STO : https://t.co/JHBAS345</span>
-                           <span class="animated" data-animation="fadeInUpShorter" data-animation-delay="1.2s">More infotamation about KAA Coin : https://t.co/JHSD34JHB</span>
+                           <span class="animated" data-animation="fadeInUpShorter" data-animation-delay="1.0s">Informações KAA Coin STO (Pré-Venda) : https://t.co/JHBAS345</span>
+                           <span class="animated" data-animation="fadeInUpShorter" data-animation-delay="1.2s">Mais informações sobre a moeda KAA : https://t.co/JHSD34JHB</span>
                         </div>
                      </div>
                   </div>
                </div>
                <div class="copy-right mx-auto text-center">
-                  <span class="copyright">Copyright &copy; 2022, KAA Coin. Desenvolvido por <a href="http://educatecnologia.co/" title="Educa" class="white">Educa</a></span>
+                  {/* <span class="copyright">Copyright &copy; 2022, KAA Coin. Desenvolvido por <a href="http://educatecnologia.co/" title="Educa" class="white">Educa</a></span> */}
+                  <span class="copyright">Copyright &copy; 2022, KAA Coin.</span>
                </div>
             </div>
          </div>
