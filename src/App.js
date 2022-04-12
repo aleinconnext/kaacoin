@@ -395,7 +395,7 @@ function App() {
                         </div>
                         <div class="col-md-12 col-lg-6 move-first animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s">
                            <div class="token-img">
-                              <img class="img-fluid" src="./theme-assets/images-3d-animation/chart.png" alt="token-distribution"/>
+                              <img class="img-fluid" src="./theme-assets/images-3d-animation/chart-token.png" alt="token-distribution"/>
                            </div>
                         </div>
                      </div>
