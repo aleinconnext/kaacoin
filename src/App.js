@@ -881,9 +881,8 @@ function App() {
                         <ul class="social-buttons list-unstyled mb-5">
                            <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s"><a href="#" title="Facebook" class="btn font-medium"><i class="ti-facebook"></i></a></li>
                            <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s"><a href="#" title="Twitter" class="btn font-medium"><i class="ti-twitter-alt"></i></a></li>
-                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s"><a href="#" title="LinkedIn" class="btn font-medium"><i class="ti-linkedin"></i></a></li>
-                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s"><a href="#" title="GitHub" class="btn font-medium"><i class="ti-github"></i></a></li>
-                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s"><a href="#" title="Pintrest" class="btn font-medium"><i class="ti-pinterest"></i></a></li>
+                           <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s"><a href="#" title="Instagram" class="btn font-medium"><i class="ti-instagram"></i></a></li>
+                           {/* <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s"><a href="#" title="GitHub" class="btn font-medium"><i class="ti-github"></i></a></li> */}
                         </ul>
                      </div>
                   </div>
