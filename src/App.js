@@ -98,8 +98,6 @@ function App() {
                         </div>
                   </Slider>
                </section>
-
-            
             {/* <!-- About --> */}
                <section class="about section-padding" id="about">
                   <div class="container">
@@ -122,7 +120,7 @@ function App() {
                            </div>
                            <div class="col-md-12 col-lg-6 animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">
                               <div class="position-relative what-is-crypto-img float-xl-right">
-                                 <img class="img-fluid" src="./theme-assets/images-3d-animation/what-is-crypto.png" alt="What is Crypto?" />
+                                 <img class="img-fluid" src="./theme-assets/images-3d-animation/what-crypto.png" alt="What is Crypto?" />
                                  {/* <div class="play-video text-center">
                                     <a href="#" class="play rounded-circle btn-gradient-purple btn-glow video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/UXAJu3zS4bU" data-target="#ico-modal"><i class="ti-control-play"></i></a>
                                     <span class="mt-2 d-none d-md-block">How it works</span>
