@@ -24,9 +24,9 @@ function App() {
                         <li className="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.3s">
                            <a className="nav-link" href="#whitepaper">Whitepaper</a>
                         </li>
-                        <li className="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.4s">
+                        {/* <li className="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.4s">
                            <a className="nav-link" href="#token-sale-mobile-app">Venda do Token</a>
-                        </li>
+                        </li> */}
                         <li className="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.5s">
                            <a className="nav-link" href="#roadmap">Roadmap</a>
                         </li>
@@ -68,7 +68,8 @@ function App() {
                                  <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-12">
                                        <div class="banner-content pt-5">
-                                          <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Crypto ICO is modern, clean and <br class="d-none d-xl-block"/>gradient ui ico most trending <br class="d-none d-xl-block"/>template of 2018</h1>
+                                          {/* <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Security Token lastreado por hectares <br class="d-none d-xl-block"/>de florestas preservadas e recuperadas, somado a atividades econômicas <br class="d-none d-xl-block"/>sustentáveis em suas áreas</h1> */}
+                                          <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Security Token lastreado por hectares de florestas preservadas e recuperadas</h1>
                                           <h3 class="d-block white animated" data-animation="fadeInUpShorter" data-animation-delay="1.6s">First decentralized marketing platform that allows <br class="d-none d-xl-block"/>merchants and affiliates.</h3>
                                           <div class="mt-5">
                                              <a href="#token-sale-mobile-app" class="btn btn-lg btn-gradient-purple btn-glow mr-4 mb-2 animated" data-animation="fadeInUpShorter" data-animation-delay="1.7s">Venda do Token</a>
@@ -86,7 +87,8 @@ function App() {
                                  <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-12">
                                        <div class="banner-content pt-5">
-                                          <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Crypto ICO is modern, clean and <br class="d-none d-xl-block"/>gradient ui ico most trending <br class="d-none d-xl-block"/>template of 2018</h1>
+                                          {/* <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Crypto ICO is modern, clean and <br class="d-none d-xl-block"/>gradient ui ico most trending <br class="d-none d-xl-block"/>template of 2018</h1> */}
+                                          <h1 class="best-template animated" data-animation="fadeInUpShorter" data-animation-delay="1.5s">Investimento com retorno superior ao LCI e ao LCA, que conta com a segurança e liquidez do Blockchain da Ethereum</h1>
                                           <h3 class="d-block white animated" data-animation="fadeInUpShorter" data-animation-delay="1.6s">First decentralized marketing platform that allows <br class="d-none d-xl-block"/>merchants and affiliates.</h3>
                                        </div>
                                     </div>
