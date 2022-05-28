@@ -445,7 +445,7 @@ function App() {
                      </div>
                      <div class="row">
                         <div class="col-xl-4 col-md-12 mx-auto">
-                           <label class="text-label">Valor do invertimanto (R$)</label>
+                           <label class="text-label">Valor do invertimento (R$)</label>
                            <form class="text-center">
                               <input type="text" class="form-control animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s" name="qtdtokens" placeholder="0,00" onChange={onChanceCalc}/>
 							         {vlbeneficios.qtdtokens != '0.00' ? 
