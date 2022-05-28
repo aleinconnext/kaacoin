@@ -437,7 +437,7 @@ svg#loader g:last-child circle {
   color : #FFFFFF;
   font-size : 4.875rem;
   padding : 1rem 0.5rem;
-  margin-bottom : 3.5rem;
+  /* margin-bottom : 3.5rem; */
   background : none;  
 }
 .form-control:focus {

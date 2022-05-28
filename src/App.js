@@ -448,6 +448,12 @@ function App() {
                            <label class="text-label">Valor do invertimanto (R$)</label>
                            <form class="text-center">
                               <input type="text" class="form-control animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s" name="qtdtokens" placeholder="0,00" onChange={onChanceCalc}/>
+							         {vlbeneficios.qtdtokens != '0.00' ? 
+                              (
+                                 <button type="submit" class="btn btn-lg btn-gradient-purple btn-glow animated" data-animation="fadeInUpShorter" data-animation-delay="1.1s">Comprar Tokens</button>
+                              ) : ''}
+                              <br/>
+                              <br/>
                            </form>
                         </div>
                      </div>
