@@ -433,6 +433,44 @@ function App() {
                   </div>
                </section>
                {/* <!--/ Token Stats --> */}
+               {/* <!-- Simulador --> */}
+               <section id="contact" class="contact section-padding">
+                  <div class="container">
+                     <div class="heading text-center">
+                        <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
+                           <h6 class="sub-title">Pré-venda</h6>
+                           <h2 class="title">Simulador</h2>
+                        </div>
+                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Compre seus Tokens com antecedência.</p>
+                     </div>
+                     <div class="row">
+                        <div class="col-xl-4 col-md-12 mx-auto">
+                           <label class="text-label">Valor do invertimanto (R$)</label>
+                           <form class="text-center">
+                              <input type="text" class="form-control animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s" name="qtdtokens" placeholder="0,00" onChange={onChanceCalc}/>
+                           </form>
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="col-xl-8 col-md-12 mx-auto">
+                           <ul class="list-unstyled contact-info pb-5 mb-5">
+                              <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">
+                                 <i class="ti-shopping-cart"></i>
+                                 <span class="ml-1">{vlbeneficios.qtdtokens != '0.00' ? vlbeneficios.qtdtokens : '0'} Tokens</span>
+                              </li>
+                              <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">
+                                 <i class="ti-medall-alt"></i>
+                                 <span class="ml-1">{vlbeneficios.reducaoco2ano != '0.00' ? vlbeneficios.reducaoco2ano : '0'} de redução de CO2</span>
+                              </li>
+                              <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">
+                                 <i class="ti-heart-broken"></i>
+                                 <span class="ml-1">{vlbeneficios.arvores != '0.00' ? vlbeneficios.arvores : '0'} Árvores plantadas</span>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </section>
                {/* <!-- Team --> */}
                <section id="team" class="team section-padding ">
                   <div class="container">
@@ -839,44 +877,7 @@ function App() {
                   </div>
                </section> */}
                {/* <!--/ FAQ --> */}
-               {/* <!-- Simulador --> */}
-               <section id="contact" class="contact section-padding">
-                  <div class="container">
-                     <div class="heading text-center">
-                        <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
-                           <h6 class="sub-title">Pré-venda</h6>
-                           <h2 class="title">Simulador</h2>
-                        </div>
-                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Compre seus Tokens com antecedência.</p>
-                     </div>
-                     <div class="row">
-                        <div class="col-xl-4 col-md-12 mx-auto">
-                           <label class="text-label">Valor do invertimanto (R$)</label>
-                           <form class="text-center">
-                              <input type="text" class="form-control animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s" name="qtdtokens" placeholder="0,00" onChange={onChanceCalc}/>
-                           </form>
-                        </div>
-                     </div>
-                     <div class="row">
-                        <div class="col-xl-8 col-md-12 mx-auto">
-                           <ul class="list-unstyled contact-info pb-5 mb-5">
-                              <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">
-                                 <i class="ti-shopping-cart"></i>
-                                 <span class="ml-1">{vlbeneficios.qtdtokens != '0.00' ? vlbeneficios.qtdtokens : '0'} Tokens</span>
-                              </li>
-                              <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">
-                                 <i class="ti-medall-alt"></i>
-                                 <span class="ml-1">{vlbeneficios.reducaoco2ano != '0.00' ? vlbeneficios.reducaoco2ano : '0'} de redução de CO2</span>
-                              </li>
-                              <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">
-                                 <i class="ti-heart-broken"></i>
-                                 <span class="ml-1">{vlbeneficios.arvores != '0.00' ? vlbeneficios.arvores : '0'} Árvores plantadas</span>
-                              </li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </section>
+               
                {/* <!-- Contact --> */}
                <section id="contact" class="contact section-padding">
                   <div class="container">
