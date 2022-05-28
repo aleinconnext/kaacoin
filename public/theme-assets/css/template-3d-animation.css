@@ -430,19 +430,30 @@ svg#loader g:last-child circle {
 /*  Form Component css
     -------------------------------------------------------------------------------------------*/
 .form-control {
+  text-align: center;
   border-radius : 0;
   border : none;
-  border-bottom : 1px solid #EEECF4;
+  /* border-bottom : 1px solid #EEECF4; */
   color : #FFFFFF;
-  font-size : 0.875rem;
+  font-size : 4.875rem;
   padding : 1rem 0.5rem;
   margin-bottom : 3.5rem;
-  background : none;
+  background : none;  
 }
 .form-control:focus {
+  color : #FFFFFF;
   -webkit-box-shadow : none !important;
           box-shadow : none !important;
   background : transparent;
+}
+.form-control::placeholder {
+  color: #FFFFFF;;
+}
+
+.text-label{
+  text-align: center;
+  color: #FFFFFF;
+  width: 100%;
 }
 
 /*  Gradient progress bar colors

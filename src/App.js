@@ -1,7 +1,40 @@
+import { React, useState } from 'react';
 import logo from './theme-assets/images-3d-animation/logo.png';
 import Slider from 'react-perfect-slider';
 
 function App() {
+   const [vlbeneficios, setvlbeneficios] = useState([]);
+   const [qtdtokens, setqtdtokens] = useState('0');
+   const [retornoano, setretornoano] = useState('0');
+   const [retornototalano, setretornototalano] = useState('0');
+   const [reducaoco2ano, setreducaoco2ano] = useState('0');
+   const [arvores, setarvores] = useState('0');
+
+   function calculaBeneficiosKaa(valor){
+      const valores = {
+          qtdtokens: (valor/40).toFixed(2),
+          retornoano: (valor*(30/100)).toFixed(2),
+          reducaoco2ano: (((valor/40)/250)*10*1000).toFixed(2),
+          arvores: (((((valor/40)/250)*10*1000)/1000)*8).toFixed(2)
+      }
+      return valores;
+  }
+
+  function onChanceCalc(e){
+   var formato = { minimumFractionDigits: 2 , style: 'currency', currency: 'BRL' }
+   const vlinvestido = e.target.value.toLocaleString('pt-BR', formato).replace(",", ".");
+   //console.log(vlinvestido);
+   //const resultado = calculaBeneficiosKaa(vlinvestido);
+   // setqtdtokens((vlinvestido/40).toFixed(2));
+   // setretornoano((vlinvestido*(30/100)).toFixed(2));
+   //setretornototalano((vlinvestido+(vlinvestido*(30/100))).toFixed(2));
+   // setreducaoco2ano((((vlinvestido/40)/250)*10*1000).toFixed(2));
+   // setarvores((((((vlinvestido/40)/250)*10*1000)/1000)*8).toFixed(2));
+
+   setvlbeneficios(calculaBeneficiosKaa(vlinvestido))
+   // console.log(vlbeneficios);
+  }
+
   return (
     <div classNameName="App">
       <header className="page-header">
@@ -446,7 +479,7 @@ function App() {
                                  </div>
                               </div>
                            </div>
-                           <div class="col-sm-12 col-md-6 col-lg-4 mb-5 animated" data-animation="flipInX" data-animation-delay="0.9s">
+                           {/* <div class="col-sm-12 col-md-6 col-lg-4 mb-5 animated" data-animation="flipInX" data-animation-delay="0.9s">
                               <div class="d-flex team-member">
                                  <div class="team-img float-left mr-3" data-toggle="modal" data-target="#teamUser6">
                                     <img src="./theme-assets/images-3d-animation/user-6.png" alt="team-profile-1" class="rounded-circle" width="128"/>
@@ -461,7 +494,7 @@ function App() {
                                     </div>
                                  </div>
                               </div>
-                           </div>
+                           </div> */}
                            <div class="col-sm-12 col-md-6 col-lg-4 mb-5 animated" data-animation="flipInX" data-animation-delay="1.0s">
                               <div class="d-flex team-member">
                                  <div class="team-img float-left mr-3" data-toggle="modal" data-target="#teamUser2">
@@ -806,6 +839,44 @@ function App() {
                   </div>
                </section> */}
                {/* <!--/ FAQ --> */}
+               {/* <!-- Simulador --> */}
+               <section id="contact" class="contact section-padding">
+                  <div class="container">
+                     <div class="heading text-center">
+                        <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
+                           <h6 class="sub-title">Pré-venda</h6>
+                           <h2 class="title">Simulador</h2>
+                        </div>
+                        <p class="content-desc animated" data-animation="fadeInUpShorter" data-animation-delay="0.4s">Compre seus Tokens com antecedência.</p>
+                     </div>
+                     <div class="row">
+                        <div class="col-xl-4 col-md-12 mx-auto">
+                           <label class="text-label">Valor do invertimanto (R$)</label>
+                           <form class="text-center">
+                              <input type="text" class="form-control animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s" name="qtdtokens" placeholder="0,00" onChange={onChanceCalc}/>
+                           </form>
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="col-xl-8 col-md-12 mx-auto">
+                           <ul class="list-unstyled contact-info pb-5 mb-5">
+                              <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">
+                                 <i class="ti-shopping-cart"></i>
+                                 <span class="ml-1">{vlbeneficios.qtdtokens != '0.00' ? vlbeneficios.qtdtokens : '0'} Tokens</span>
+                              </li>
+                              <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">
+                                 <i class="ti-medall-alt"></i>
+                                 <span class="ml-1">{vlbeneficios.reducaoco2ano != '0.00' ? vlbeneficios.reducaoco2ano : '0'} de redução de CO2</span>
+                              </li>
+                              <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">
+                                 <i class="ti-heart-broken"></i>
+                                 <span class="ml-1">{vlbeneficios.arvores != '0.00' ? vlbeneficios.arvores : '0'} Árvores plantadas</span>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </section>
                {/* <!-- Contact --> */}
                <section id="contact" class="contact section-padding">
                   <div class="container">
@@ -832,12 +903,6 @@ function App() {
                                  <span class="ml-1">Nosso Telegram</span>
                               </li>
                            </ul>
-                           {/* <form class="text-center">
-                              <input type="text" class="form-control animated" data-animation="fadeInUpShorter" data-animation-delay="0.8s" name="name" placeholder="Your Name"/>
-                              <input type="text" class="form-control animated" data-animation="fadeInUpShorter" data-animation-delay="0.9s" name="mail" placeholder="Your Mail"/>
-                              <input type="text" class="form-control animated" data-animation="fadeInUpShorter" data-animation-delay="1.0s" name="message" placeholder="Your Massage"/>
-                              <button type="submit" class="btn btn-lg btn-gradient-purple btn-glow animated" data-animation="fadeInUpShorter" data-animation-delay="1.1s">Send Message</button>
-                           </form> */}
                         </div>
                      </div>
                   </div>
