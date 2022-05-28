@@ -3443,6 +3443,39 @@ header .navbar.navbar-shadow {
   color : #FFFFFF;
 }
 
+/* simulador page : simulador area info and icons */
+.simulador {
+  position : relative;
+}
+.simulador .simulador-info {
+  display : -webkit-box;
+  display : -webkit-flex;
+  display :    -moz-box;
+  display : -ms-flexbox;
+  display :         flex;
+  -webkit-box-pack : justify;
+  -webkit-justify-content : space-between;
+     -moz-box-pack : justify;
+  -ms-flex-pack : justify;
+          justify-content : space-between;
+}
+.simulador .simulador-info li {
+  -webkit-box-flex : 0;
+  -webkit-flex : 0 1 auto;
+     -moz-box-flex : 0;
+      -ms-flex : 0 1 auto;
+          flex : 0 1 auto;
+}
+.simulador .simulador-info li i {
+  color : #7240A5;
+  font-size : 2rem;
+}
+.simulador .simulador-info li span {
+  /* vertical-align : top; */
+  font-size : 1.00rem;
+  color : #FFFFFF;
+}
+
 /* 3d animation footer section : footer area css */
 .footer {
   margin-top : 1.5rem;

@@ -434,7 +434,7 @@ function App() {
                </section>
                {/* <!--/ Token Stats --> */}
                {/* <!-- Simulador --> */}
-               <section id="contact" class="contact section-padding">
+               <section id="simulador" class="simulador section-padding">
                   <div class="container">
                      <div class="heading text-center">
                         <div class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.3s">
@@ -453,14 +453,14 @@ function App() {
                      </div>
                      <div class="row">
                         <div class="col-xl-8 col-md-12 mx-auto">
-                           <ul class="list-unstyled contact-info pb-5 mb-5">
+                           <ul class="list-unstyled simulador-info pb-5 mb-5">
                               <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.5s">
                                  <i class="ti-shopping-cart"></i>
                                  <span class="ml-1">{vlbeneficios.qtdtokens != '0.00' ? vlbeneficios.qtdtokens : '0'} Tokens</span>
                               </li>
                               <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.6s">
                                  <i class="ti-medall-alt"></i>
-                                 <span class="ml-1">{vlbeneficios.reducaoco2ano != '0.00' ? vlbeneficios.reducaoco2ano : '0'} de redução de CO2</span>
+                                 <span class="ml-1">{vlbeneficios.reducaoco2ano != '0.00' ? vlbeneficios.reducaoco2ano : '0'}kg de redução CO2/ano</span>
                               </li>
                               <li class="animated" data-animation="fadeInUpShorter" data-animation-delay="0.7s">
                                  <i class="ti-heart-broken"></i>
